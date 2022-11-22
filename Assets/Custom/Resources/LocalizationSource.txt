@@ -1,0 +1,19 @@
+;en;pt		
+AnnouncerListen;Hey, Listen!;Hey, Escute!
+AnnouncerPlayerTurn;Show me what you got!;Mostre o que sabes!		
+AnnouncerFailedChoice;Not that one!;NÃ£o era essa!		
+AnnouncerFailedByRuneChoice;Oh no!!!;Oh nÃ£o!!!		
+AnnouncerTimeout;Hurry Up!;Mais RÃ¡pido!		
+AnnouncerFailedByTimeout;Timeout!;Acabou o Tempo!		
+AnnouncerHighScore;New High Score: {0};Novo Recorde: {0}		
+AnnouncerBloodSacrifice;You must be desperate!;SacrifÃ­cio!		
+HintName;Hint;Dica		
+HintDescription;Discards some runes that are not the next input of the sequence. Leveling up reduces the cooldown and increases the number of runes discarded.;Descarta algumas runas que nÃ£o sÃ£o a prÃ³xima entrada da sequÃªncia. Subir de nÃ­vel reduz o tempo de espera e aumenta o nÃºmero de runas descartadas.		
+PurgeName;Purge;Expurgar		
+PurgeDescription;Deletes a rune from the board and restarts the sequence. Leveling up reduces the cooldown.;Destroy uma runa do tabuleiro e reinicia a sequÃªncia. Subir de nÃ­vel reduz o tempo de espera.		
+ReplayName;Replay Sequence;Tocar novamente		
+ReplayDescription;Hear the sequence again	 and Restart playing it from the beginning. Leveling up reduces the cooldown.;OuÃ§a a sequÃªncia novamente e reinicie a reproduÃ§Ã£o desde o inÃ­cio. Subir de nÃ­vel reduz o tempo de espera.	
+BloodSacrificeName;Blood Sacrifice;SacrifÃ­cio de Sangue		
+BloodSacrificeDescription;Complete the current sequence at the cost of a life! Leveling up reduces the cooldown.;Complete a sequÃªncia atual pelo preÃ§o de uma vida! Subir de nÃ­vel reduz o tempo de espera.	
+LifeName;Life;Vida		
+LifeDescription;Adds extra life to players life pool. Lives persist through game sessions.;Adiciona vida extra à reserva de vida dos jogadores. Vidas persistem através de sessões de jogo
